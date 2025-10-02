@@ -1,4 +1,4 @@
-name: Hello world
+name: Hello world second branch
 
 on:
   workflow_dispatch:
